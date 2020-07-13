@@ -1,0 +1,41 @@
+.article.image {
+    padding-bottom: 50%;
+}
+
+.image:hover {
+    transform: scale(0.9);
+}
+
+.archive .article {
+    padding: 1em;
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 0 20px 20px rgba(0, 0, 0, 0.05);
+}
+
+.home .article {
+    padding: 1em;
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1), 0 20px 20px rgba(0, 0, 0, 0.05);
+}
+
+a {
+    text-decoration: none;
+    color: #32529f;
+}
+
+a:hover,
+a:active {
+    color: blue;
+}
+
+h2 a {
+    color: #fff;
+}
+h2 a:hover {
+    color: #cccccc;
+}
+
+.page-title {
+    color: #32529f;
+}
+

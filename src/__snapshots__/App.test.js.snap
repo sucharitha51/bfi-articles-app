@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App  component App should match with snapshot 1`] = `"<div><div class=\\"nav-bar\\"><ul><li><a href=\\"/\\"><b>Home</b></a></li><li><a href=\\"/review\\"><b>Reviews</b></a></li><li><a href=\\"/features\\"><b>Features</b></a></li><li><a href=\\"/video\\"><b>Videos</b></a></li></ul></div><h2><a href=\\"/latest\\">Latest</a></h2><div class=\\"archive\\"></div><h2><a href=\\"/reviews\\">Reviews</a></h2><div class=\\"archive\\"></div><h2><a href=\\"/videos\\">Videos</a></h2><div class=\\"archive\\"></div><h2><a href=\\"/features\\">Features</a></h2><div class=\\"archive\\"></div></div>"`;
